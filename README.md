@@ -23,7 +23,7 @@ In this project we were charged with determining the number of retiring employee
 ## Conclusion
 In the graphic below we see that the total number of mentorship eligible employees is roughly 1,500. 
 
-![image5](/Data/mentorship_count.png)
+![image5](/Data/mentor_count.png)
 
 With roughly 62% of the workforce at retirement age and only about 1% capable of mentorship we strongly suggest broadening the mentorship eligibility requirements to query for a retirement timeframe as there might not be enough employees to fulfill the mentorship roles prior to retirement.
 
